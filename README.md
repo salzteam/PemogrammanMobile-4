@@ -1,7 +1,7 @@
 # Pratikum Pemogramman Mobile
 
-Nama : Akshal Rizki Gandari
-Nim : 20230801448
+- Nama : Akshal Rizki Gandari
+- Nim : 20230801448
 
 ## Getting Started
 
