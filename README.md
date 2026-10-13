@@ -1,6 +1,7 @@
-# pemogramman_mobile
+# Pratikum Pemogramman Mobile
 
-A new Flutter project.
+Nama : Akshal Rizki Gandari
+Nim : 20230801448
 
 ## Getting Started
 
